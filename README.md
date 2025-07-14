@@ -2,6 +2,7 @@
 THIS COMMAND SHARE FACEBOOK PUBLIC POST UNLIMITED 
 
 ```python
+rm -rf Fb-Post-Share
 git clone https://github.com/ALI-JUTT/Fb-Post-Share
 
 cd Fb-Post-Share
